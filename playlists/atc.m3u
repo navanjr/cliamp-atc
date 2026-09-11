@@ -1,149 +1,35 @@
 #EXTM3U
-#EXTINF:-1,Miami International — KMIA Approach
-http://d.liveatc.net/kmia_app
 #EXTINF:-1,Miami International — KMIA Tower
-http://d.liveatc.net/kmia_twr
+http://d.liveatc.net/kmia3_twr
 #EXTINF:-1,Miami International — KMIA Ground
-http://d.liveatc.net/kmia_gnd
-#EXTINF:-1,Fort Lauderdale-Hollywood — KFLL Approach
-http://d.liveatc.net/kfll_app
-#EXTINF:-1,Fort Lauderdale-Hollywood — KFLL Tower
-http://d.liveatc.net/kfll_twr
-#EXTINF:-1,Palm Beach International — KPBI Approach
-http://d.liveatc.net/kpbi_app
-#EXTINF:-1,Palm Beach International — KPBI Tower
-http://d.liveatc.net/kpbi_twr
-#EXTINF:-1,Orlando International — KMCO Tower
-http://d.liveatc.net/kmco_twr
-#EXTINF:-1,Miami International — KMIA ATIS
-http://d.liveatc.net/kmia_atis
+http://d.liveatc.net/kmia3_gnd
+#EXTINF:-1,Miami International — KMIA Ground South (9/27/30)
+http://d.liveatc.net/kmia3_gnd2
+#EXTINF:-1,Miami International — KMIA Approach 119.45
+http://d.liveatc.net/kmia3_app_11945
+#EXTINF:-1,Miami International — KMIA Approach/Departure 120.5
+http://d.liveatc.net/kmia3_app_1205
+#EXTINF:-1,Miami International — KMIA Approach 124.85
+http://d.liveatc.net/kmia3_app_12485
+#EXTINF:-1,Miami International — KMIA Approach 125.75
+http://d.liveatc.net/kmia3_app_12575
+#EXTINF:-1,Miami International — KMIA Approach KFLL 133.775
+http://d.liveatc.net/kmia3_app_133775
 #EXTINF:-1,Miami International — KMIA ATIS Arrival
-http://d.liveatc.net/kmia_atis_arr
-#EXTINF:-1,Miami International — KMIA ATIS Departure
-http://d.liveatc.net/kmia_atis_dep
-#EXTINF:-1,Fort Lauderdale-Hollywood — KFLL ATIS
-http://d.liveatc.net/kfll_atis
-#EXTINF:-1,Palm Beach International — KPBI ATIS
-http://d.liveatc.net/kpbi_atis
-#EXTINF:-1,Orlando International — KMCO ATIS
-http://d.liveatc.net/kmco_atis
-#EXTINF:-1,Miami ARTCC — ZMA Miami Center
-http://d.liveatc.net/zma
-#EXTINF:-1,Miami ARTCC — ZMA Miami Center (CTR)
-http://d.liveatc.net/zma_ctr
-#EXTINF:-1,Miami ARTCC — ZMA / KMIA
-http://d.liveatc.net/kmia_zma
-#EXTINF:-1,Jacksonville ARTCC — ZJX Jacksonville Center
-http://d.liveatc.net/zjx
-#EXTINF:-1,John F. Kennedy — KJFK Approach
-http://d.liveatc.net/kjfk_app
+http://d.liveatc.net/kmia3_atis_arr
 #EXTINF:-1,John F. Kennedy — KJFK Tower
 http://d.liveatc.net/kjfk_twr
+#EXTINF:-1,John F. Kennedy — KJFK Ground/Tower
+http://d.liveatc.net/kjfk9_s
 #EXTINF:-1,LaGuardia — KLGA Tower
 http://d.liveatc.net/klga_twr
 #EXTINF:-1,Newark Liberty — KEWR Tower
 http://d.liveatc.net/kewr_twr
-#EXTINF:-1,Boston Logan — KBOS Approach
-http://d.liveatc.net/kbos_app
-#EXTINF:-1,Boston Logan — KBOS Tower
-http://d.liveatc.net/kbos_twr
-#EXTINF:-1,Los Angeles International — KLAX Approach
-http://d.liveatc.net/klax_app
 #EXTINF:-1,Los Angeles International — KLAX Tower
 http://d.liveatc.net/klax_twr
-#EXTINF:-1,San Francisco International — KSFO Approach
-http://d.liveatc.net/ksfo_app
-#EXTINF:-1,San Francisco International — KSFO Tower
-http://d.liveatc.net/ksfo_twr
-#EXTINF:-1,Chicago O'Hare — KORD Approach
-http://d.liveatc.net/kord_app
-#EXTINF:-1,Chicago O'Hare — KORD Tower
-http://d.liveatc.net/kord_twr
-#EXTINF:-1,Hartsfield-Jackson Atlanta — KATL Approach
-http://d.liveatc.net/katl_app
 #EXTINF:-1,Hartsfield-Jackson Atlanta — KATL Tower
 http://d.liveatc.net/katl_twr
-#EXTINF:-1,Denver International — KDEN Tower
-http://d.liveatc.net/kden_twr
-#EXTINF:-1,Dallas/Fort Worth — KDFW Tower
-http://d.liveatc.net/kdfw_twr
-#EXTINF:-1,Houston Intercontinental — KIAH Tower
-http://d.liveatc.net/kiah_twr
-#EXTINF:-1,Phoenix Sky Harbor — KPHX Tower
-http://d.liveatc.net/kphx_twr
-#EXTINF:-1,Seattle-Tacoma — KSEA Tower
-http://d.liveatc.net/ksea_twr
-#EXTINF:-1,Las Vegas Harry Reid — KLAS Tower
-http://d.liveatc.net/klas_twr
-#EXTINF:-1,John F. Kennedy — KJFK ATIS
-http://d.liveatc.net/kjfk_atis
-#EXTINF:-1,LaGuardia — KLGA ATIS
-http://d.liveatc.net/klga_atis
-#EXTINF:-1,Newark Liberty — KEWR ATIS
-http://d.liveatc.net/kewr_atis
-#EXTINF:-1,Boston Logan — KBOS ATIS
-http://d.liveatc.net/kbos_atis
-#EXTINF:-1,Los Angeles International — KLAX ATIS
-http://d.liveatc.net/klax_atis
+#EXTINF:-1,San Francisco International — KSFO Tower
+http://d.liveatc.net/ksfo_twr
 #EXTINF:-1,San Francisco International — KSFO ATIS
 http://d.liveatc.net/ksfo_atis
-#EXTINF:-1,Chicago O'Hare — KORD ATIS
-http://d.liveatc.net/kord_atis
-#EXTINF:-1,Hartsfield-Jackson Atlanta — KATL ATIS
-http://d.liveatc.net/katl_atis
-#EXTINF:-1,Denver International — KDEN ATIS
-http://d.liveatc.net/kden_atis
-#EXTINF:-1,Dallas/Fort Worth — KDFW ATIS
-http://d.liveatc.net/kdfw_atis
-#EXTINF:-1,Houston Intercontinental — KIAH ATIS
-http://d.liveatc.net/kiah_atis
-#EXTINF:-1,Phoenix Sky Harbor — KPHX ATIS
-http://d.liveatc.net/kphx_atis
-#EXTINF:-1,Seattle-Tacoma — KSEA ATIS
-http://d.liveatc.net/ksea_atis
-#EXTINF:-1,Las Vegas Harry Reid — KLAS ATIS
-http://d.liveatc.net/klas_atis
-#EXTINF:-1,New York ARTCC — ZNY New York Center
-http://d.liveatc.net/zny
-#EXTINF:-1,Washington ARTCC — ZDC Washington Center
-http://d.liveatc.net/zdc
-#EXTINF:-1,Boston ARTCC — ZBW Boston Center
-http://d.liveatc.net/zbw
-#EXTINF:-1,Chicago ARTCC — ZAU Chicago Center
-http://d.liveatc.net/zau
-#EXTINF:-1,Atlanta ARTCC — ZTL Atlanta Center
-http://d.liveatc.net/ztl
-#EXTINF:-1,Los Angeles ARTCC — ZLA Los Angeles Center
-http://d.liveatc.net/zla
-#EXTINF:-1,Oakland ARTCC — ZOA Oakland Center
-http://d.liveatc.net/zoa
-#EXTINF:-1,Seattle ARTCC — ZSE Seattle Center
-http://d.liveatc.net/zse
-#EXTINF:-1,Denver ARTCC — ZDV Denver Center
-http://d.liveatc.net/zdv
-#EXTINF:-1,Fort Worth ARTCC — ZFW Fort Worth Center
-http://d.liveatc.net/zfw
-#EXTINF:-1,Houston ARTCC — ZHU Houston Center
-http://d.liveatc.net/zhu
-#EXTINF:-1,Cleveland ARTCC — ZOB Cleveland Center
-http://d.liveatc.net/zob
-#EXTINF:-1,Minneapolis ARTCC — ZMP Minneapolis Center
-http://d.liveatc.net/zmp
-#EXTINF:-1,Kansas City ARTCC — ZKC Kansas City Center
-http://d.liveatc.net/zkc
-#EXTINF:-1,Salt Lake ARTCC — ZLC Salt Lake Center
-http://d.liveatc.net/zlc
-#EXTINF:-1,Albuquerque ARTCC — ZAB Albuquerque Center
-http://d.liveatc.net/zab
-#EXTINF:-1,Memphis ARTCC — ZME Memphis Center
-http://d.liveatc.net/zme
-#EXTINF:-1,Indianapolis ARTCC — ZID Indianapolis Center
-http://d.liveatc.net/zid
-#EXTINF:-1,London Heathrow — EGLL Tower
-http://d.liveatc.net/egll_twr
-#EXTINF:-1,Amsterdam Schiphol — EHAM Tower
-http://d.liveatc.net/eham01_twr_main1
-#EXTINF:-1,Toronto Pearson — CYYZ Tower
-http://d.liveatc.net/cyyz7
-#EXTINF:-1,Vancouver International — CYVR Ground/Tower
-http://d.liveatc.net/cyvr1_gnd_twr

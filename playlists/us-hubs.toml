@@ -1,34 +1,13 @@
 [[track]]
-path = "http://d.liveatc.net/kmia_app"
-title = "KMIA Approach"
-artist = "Miami International"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kmia_twr"
-title = "KMIA Tower"
-artist = "Miami International"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kmia_gnd"
-title = "KMIA Ground"
-artist = "Miami International"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kjfk_app"
-title = "KJFK Approach"
+path = "http://d.liveatc.net/kjfk_twr"
+title = "KJFK Tower"
 artist = "John F. Kennedy"
 album = "Live ATC"
 genre = "ATC"
 realtime = true
 [[track]]
-path = "http://d.liveatc.net/kjfk_twr"
-title = "KJFK Tower"
+path = "http://d.liveatc.net/kjfk9_s"
+title = "KJFK Ground/Tower"
 artist = "John F. Kennedy"
 album = "Live ATC"
 genre = "ATC"
@@ -48,65 +27,9 @@ album = "Live ATC"
 genre = "ATC"
 realtime = true
 [[track]]
-path = "http://d.liveatc.net/kbos_app"
-title = "KBOS Approach"
-artist = "Boston Logan"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kbos_twr"
-title = "KBOS Tower"
-artist = "Boston Logan"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/klax_app"
-title = "KLAX Approach"
-artist = "Los Angeles International"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
 path = "http://d.liveatc.net/klax_twr"
 title = "KLAX Tower"
 artist = "Los Angeles International"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/ksfo_app"
-title = "KSFO Approach"
-artist = "San Francisco International"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/ksfo_twr"
-title = "KSFO Tower"
-artist = "San Francisco International"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kord_app"
-title = "KORD Approach"
-artist = "Chicago O'Hare"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kord_twr"
-title = "KORD Tower"
-artist = "Chicago O'Hare"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/katl_app"
-title = "KATL Approach"
-artist = "Hartsfield-Jackson Atlanta"
 album = "Live ATC"
 genre = "ATC"
 realtime = true
@@ -118,86 +41,16 @@ album = "Live ATC"
 genre = "ATC"
 realtime = true
 [[track]]
-path = "http://d.liveatc.net/kden_twr"
-title = "KDEN Tower"
-artist = "Denver International"
+path = "http://d.liveatc.net/ksfo_twr"
+title = "KSFO Tower"
+artist = "San Francisco International"
 album = "Live ATC"
 genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kdfw_twr"
-title = "KDFW Tower"
-artist = "Dallas/Fort Worth"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kiah_twr"
-title = "KIAH Tower"
-artist = "Houston Intercontinental"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kphx_twr"
-title = "KPHX Tower"
-artist = "Phoenix Sky Harbor"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/ksea_twr"
-title = "KSEA Tower"
-artist = "Seattle-Tacoma"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/klas_twr"
-title = "KLAS Tower"
-artist = "Las Vegas Harry Reid"
-album = "Live ATC"
-genre = "ATC"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kjfk_atis"
-title = "KJFK ATIS"
-artist = "John F. Kennedy"
-album = "Live ATC"
-genre = "ATIS"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kbos_atis"
-title = "KBOS ATIS"
-artist = "Boston Logan"
-album = "Live ATC"
-genre = "ATIS"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/klax_atis"
-title = "KLAX ATIS"
-artist = "Los Angeles International"
-album = "Live ATC"
-genre = "ATIS"
 realtime = true
 [[track]]
 path = "http://d.liveatc.net/ksfo_atis"
 title = "KSFO ATIS"
 artist = "San Francisco International"
-album = "Live ATC"
-genre = "ATIS"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/kord_atis"
-title = "KORD ATIS"
-artist = "Chicago O'Hare"
-album = "Live ATC"
-genre = "ATIS"
-realtime = true
-[[track]]
-path = "http://d.liveatc.net/katl_atis"
-title = "KATL ATIS"
-artist = "Hartsfield-Jackson Atlanta"
 album = "Live ATC"
 genre = "ATIS"
 realtime = true

@@ -1,64 +1,41 @@
 # cliamp-atc
 
-Curated **live air-traffic-control** streams for [cliamp](https://github.com/bjarneo/cliamp).
+One **[cliamp](https://github.com/bjarneo/cliamp)** playlist of live ATC: Miami plus a few busy US hubs.
 
-Streams come from [LiveATC.net](https://www.liveatc.net/) Icecast mounts (`d.liveatc.net`). This repo is not affiliated with LiveATC. Audio is theirs; use it for personal listening and follow their [terms](https://www.liveatc.net/).
+Streams are [LiveATC.net](https://www.liveatc.net/) Icecast mounts. Not affiliated with LiveATC. Personal listening only; follow their [terms](https://www.liveatc.net/).
 
-cliamp has no third-party "ATC provider" plugin. This is a **Radio stations file** plus **TOML/M3U playlists** you can load in cliamp.
+cliamp has no ATC provider plugin. **Do not put these in `radios.toml`.** Each `[[station]]` there is its own one-stream radio, so Enter loads a single frequency and you cannot skip tower → approach → ATIS. Use a **local playlist** instead.
 
-## Quick start
-
-### Radio provider (`R` in cliamp)
-
-```sh
-mkdir -p ~/.config/cliamp
-curl -fsSL https://raw.githubusercontent.com/navanjr/cliamp-atc/main/radios.toml \
-  -o ~/.config/cliamp/radios.toml
-cliamp --provider radio
-```
-
-Stations show under **Stations** next to the built-in cliamp radio. If you already have a `radios.toml`, merge the `[[station]]` blocks instead of overwriting.
-
-### Local playlists (`Esc` / `b` in cliamp)
+## Install (one playlist)
 
 ```sh
 mkdir -p ~/.config/cliamp/playlists
-curl -fsSL https://raw.githubusercontent.com/navanjr/cliamp-atc/main/playlists/atc.toml \
-  -o ~/.config/cliamp/playlists/atc.toml
+curl -fsSL https://raw.githubusercontent.com/navanjr/cliamp-atc/main/playlists/Live%20ATC.toml \
+  -o ~/.config/cliamp/playlists/"Live ATC.toml"
+```
+
+If you previously copied `radios.toml` from this repo, remove the ATC `[[station]]` blocks (or the file) so the Radio pane is not a long list of dead one-offs.
+
+```sh
 cliamp
 ```
 
-Regional copies:
+`Esc` / `b` → **Live ATC** → Enter. All frequencies load as one playlist. `>` / `<` (or `j`/`k`) move between Tower, Ground, Approach, ATIS.
 
-| File | Contents |
-| --- | --- |
-| `playlists/atc.toml` | Everything in this repo |
-| `playlists/florida.toml` | KMIA, KFLL, KPBI, KMCO (TWR/APP/GND, ATIS, ZMA/ZJX) |
-| `playlists/atis.toml` | ATIS loops |
-| `playlists/center.toml` | ARTCC / Center |
-| `playlists/us-hubs.toml` | Busy US Class B towers/approach (+ ATIS) |
-| `playlists/international.toml` | Heathrow, Schiphol, Pearson, Vancouver |
+Optional subsets: `florida.toml`, `atis.toml`, `us-hubs.toml`.
 
-Each track is a live Icecast URL with `realtime = true` so cliamp reconnects after pause.
-
-### One-shot M3U
+One-shot:
 
 ```sh
 cliamp https://raw.githubusercontent.com/navanjr/cliamp-atc/main/playlists/atc.m3u
 ```
 
-## Stream URLs
+## Why old URLs said Stopped / 404
 
-Official LiveATC listener format (Icecast on port 80):
+LiveATC feeder names are not `kmia_app`. Current Miami audio is on mounts like `kmia3_twr` and `kmia3_app_12485`. This repo only lists mounts that returned `audio/mpeg` when last checked.
 
-```
-http://d.liveatc.net/{mount}
-```
-
-Example: `http://d.liveatc.net/kmia_app`
-
-Mount names change when LiveATC retitles a feed. If a station 404s, check the airport page on liveatc.net and update the mount.
+Center/ARTCC (ZMA, etc.) uses sector-specific mount names that change often; none of the short names (`zma`, `zma_ctr`) were live. Add a sector from the airport page on liveatc.net when you have a working mount.
 
 ## License
 
-Playlist files in this repo are [MIT](LICENSE). LiveATC audio remains LiveATC.net's.
+Playlist files are [MIT](LICENSE). LiveATC audio remains LiveATC.net's.
