@@ -1,0 +1,51 @@
+[[station]]
+name = "KMIA Tower (Miami International)"
+url = "http://d.liveatc.net/kmia3_twr"
+[[station]]
+name = "KMIA Ground (Miami International)"
+url = "http://d.liveatc.net/kmia3_gnd"
+[[station]]
+name = "KMIA Ground South (9/27/30) (Miami International)"
+url = "http://d.liveatc.net/kmia3_gnd2"
+[[station]]
+name = "KMIA Approach 119.45 (Miami International)"
+url = "http://d.liveatc.net/kmia3_app_11945"
+[[station]]
+name = "KMIA Approach/Departure 120.5 (Miami International)"
+url = "http://d.liveatc.net/kmia3_app_1205"
+[[station]]
+name = "KMIA Approach 124.85 (Miami International)"
+url = "http://d.liveatc.net/kmia3_app_12485"
+[[station]]
+name = "KMIA Approach 125.75 (Miami International)"
+url = "http://d.liveatc.net/kmia3_app_12575"
+[[station]]
+name = "KMIA Approach KFLL 133.775 (Miami International)"
+url = "http://d.liveatc.net/kmia3_app_133775"
+[[station]]
+name = "KMIA ATIS Arrival (Miami International)"
+url = "http://d.liveatc.net/kmia3_atis_arr"
+[[station]]
+name = "KJFK Tower (John F. Kennedy)"
+url = "http://d.liveatc.net/kjfk_twr"
+[[station]]
+name = "KJFK Ground/Tower (John F. Kennedy)"
+url = "http://d.liveatc.net/kjfk9_s"
+[[station]]
+name = "KLGA Tower (LaGuardia)"
+url = "http://d.liveatc.net/klga_twr"
+[[station]]
+name = "KEWR Tower (Newark Liberty)"
+url = "http://d.liveatc.net/kewr_twr"
+[[station]]
+name = "KLAX Tower (Los Angeles International)"
+url = "http://d.liveatc.net/klax_twr"
+[[station]]
+name = "KATL Tower (Hartsfield-Jackson Atlanta)"
+url = "http://d.liveatc.net/katl_twr"
+[[station]]
+name = "KSFO Tower (San Francisco International)"
+url = "http://d.liveatc.net/ksfo_twr"
+[[station]]
+name = "KSFO ATIS (San Francisco International)"
+url = "http://d.liveatc.net/ksfo_atis"

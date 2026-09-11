@@ -75,6 +75,19 @@ def main() -> None:
         "#EXTM3U\n"
         + "".join(f"#EXTINF:-1,{a} — {t}\n{url(m)}\n" for m, t, a, _ in STATIONS)
     )
+    (ROOT / "radios.toml").write_text(
+        "".join(
+            "\n".join(
+                [
+                    "[[station]]",
+                    f'name = "{title} ({artist})"',
+                    f'url = "{url(mount)}"',
+                    "",
+                ]
+            )
+            for mount, title, artist, _ in STATIONS
+        )
+    )
     print(f"{len(STATIONS)} stations")
 
 
