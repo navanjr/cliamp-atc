@@ -33,8 +33,10 @@ Regional copies:
 | File | Contents |
 | --- | --- |
 | `playlists/atc.toml` | Everything in this repo |
-| `playlists/florida.toml` | KMIA, KFLL, KPBI, KMCO |
-| `playlists/us-hubs.toml` | Busy US Class B towers/approach |
+| `playlists/florida.toml` | KMIA, KFLL, KPBI, KMCO (TWR/APP/GND, ATIS, ZMA/ZJX) |
+| `playlists/atis.toml` | ATIS loops |
+| `playlists/center.toml` | ARTCC / Center |
+| `playlists/us-hubs.toml` | Busy US Class B towers/approach (+ ATIS) |
 | `playlists/international.toml` | Heathrow, Schiphol, Pearson, Vancouver |
 
 Each track is a live Icecast URL with `realtime = true` so cliamp reconnects after pause.

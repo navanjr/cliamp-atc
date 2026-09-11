@@ -54,3 +54,73 @@ artist = "Orlando International"
 album = "Live ATC"
 genre = "ATC"
 realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmia_atis"
+title = "KMIA ATIS"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmia_atis_arr"
+title = "KMIA ATIS Arrival"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmia_atis_dep"
+title = "KMIA ATIS Departure"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kfll_atis"
+title = "KFLL ATIS"
+artist = "Fort Lauderdale-Hollywood"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kpbi_atis"
+title = "KPBI ATIS"
+artist = "Palm Beach International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmco_atis"
+title = "KMCO ATIS"
+artist = "Orlando International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/zma"
+title = "ZMA Miami Center"
+artist = "Miami ARTCC"
+album = "Live ATC"
+genre = "Center"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/zma_ctr"
+title = "ZMA Miami Center (CTR)"
+artist = "Miami ARTCC"
+album = "Live ATC"
+genre = "Center"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmia_zma"
+title = "ZMA / KMIA"
+artist = "Miami ARTCC"
+album = "Live ATC"
+genre = "Center"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/zjx"
+title = "ZJX Jacksonville Center"
+artist = "Jacksonville ARTCC"
+album = "Live ATC"
+genre = "Center"
+realtime = true

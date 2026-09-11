@@ -1,0 +1,140 @@
+[[track]]
+path = "http://d.liveatc.net/kmia_atis"
+title = "KMIA ATIS"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmia_atis_arr"
+title = "KMIA ATIS Arrival"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmia_atis_dep"
+title = "KMIA ATIS Departure"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kfll_atis"
+title = "KFLL ATIS"
+artist = "Fort Lauderdale-Hollywood"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kpbi_atis"
+title = "KPBI ATIS"
+artist = "Palm Beach International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmco_atis"
+title = "KMCO ATIS"
+artist = "Orlando International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kjfk_atis"
+title = "KJFK ATIS"
+artist = "John F. Kennedy"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/klga_atis"
+title = "KLGA ATIS"
+artist = "LaGuardia"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kewr_atis"
+title = "KEWR ATIS"
+artist = "Newark Liberty"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kbos_atis"
+title = "KBOS ATIS"
+artist = "Boston Logan"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/klax_atis"
+title = "KLAX ATIS"
+artist = "Los Angeles International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/ksfo_atis"
+title = "KSFO ATIS"
+artist = "San Francisco International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kord_atis"
+title = "KORD ATIS"
+artist = "Chicago O'Hare"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/katl_atis"
+title = "KATL ATIS"
+artist = "Hartsfield-Jackson Atlanta"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kden_atis"
+title = "KDEN ATIS"
+artist = "Denver International"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kdfw_atis"
+title = "KDFW ATIS"
+artist = "Dallas/Fort Worth"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kiah_atis"
+title = "KIAH ATIS"
+artist = "Houston Intercontinental"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kphx_atis"
+title = "KPHX ATIS"
+artist = "Phoenix Sky Harbor"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/ksea_atis"
+title = "KSEA ATIS"
+artist = "Seattle-Tacoma"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/klas_atis"
+title = "KLAS ATIS"
+artist = "Las Vegas Harry Reid"
+album = "Live ATC"
+genre = "ATIS"
+realtime = true
