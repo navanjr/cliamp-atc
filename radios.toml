@@ -1,0 +1,96 @@
+[[station]]
+name = "KMIA Approach (Miami International)"
+url = "http://d.liveatc.net/kmia_app"
+[[station]]
+name = "KMIA Tower (Miami International)"
+url = "http://d.liveatc.net/kmia_twr"
+[[station]]
+name = "KMIA Ground (Miami International)"
+url = "http://d.liveatc.net/kmia_gnd"
+[[station]]
+name = "KFLL Approach (Fort Lauderdale-Hollywood)"
+url = "http://d.liveatc.net/kfll_app"
+[[station]]
+name = "KFLL Tower (Fort Lauderdale-Hollywood)"
+url = "http://d.liveatc.net/kfll_twr"
+[[station]]
+name = "KPBI Approach (Palm Beach International)"
+url = "http://d.liveatc.net/kpbi_app"
+[[station]]
+name = "KPBI Tower (Palm Beach International)"
+url = "http://d.liveatc.net/kpbi_twr"
+[[station]]
+name = "KMCO Tower (Orlando International)"
+url = "http://d.liveatc.net/kmco_twr"
+[[station]]
+name = "KJFK Approach (John F. Kennedy)"
+url = "http://d.liveatc.net/kjfk_app"
+[[station]]
+name = "KJFK Tower (John F. Kennedy)"
+url = "http://d.liveatc.net/kjfk_twr"
+[[station]]
+name = "KLGA Tower (LaGuardia)"
+url = "http://d.liveatc.net/klga_twr"
+[[station]]
+name = "KEWR Tower (Newark Liberty)"
+url = "http://d.liveatc.net/kewr_twr"
+[[station]]
+name = "KBOS Approach (Boston Logan)"
+url = "http://d.liveatc.net/kbos_app"
+[[station]]
+name = "KBOS Tower (Boston Logan)"
+url = "http://d.liveatc.net/kbos_twr"
+[[station]]
+name = "KLAX Approach (Los Angeles International)"
+url = "http://d.liveatc.net/klax_app"
+[[station]]
+name = "KLAX Tower (Los Angeles International)"
+url = "http://d.liveatc.net/klax_twr"
+[[station]]
+name = "KSFO Approach (San Francisco International)"
+url = "http://d.liveatc.net/ksfo_app"
+[[station]]
+name = "KSFO Tower (San Francisco International)"
+url = "http://d.liveatc.net/ksfo_twr"
+[[station]]
+name = "KORD Approach (Chicago O'Hare)"
+url = "http://d.liveatc.net/kord_app"
+[[station]]
+name = "KORD Tower (Chicago O'Hare)"
+url = "http://d.liveatc.net/kord_twr"
+[[station]]
+name = "KATL Approach (Hartsfield-Jackson Atlanta)"
+url = "http://d.liveatc.net/katl_app"
+[[station]]
+name = "KATL Tower (Hartsfield-Jackson Atlanta)"
+url = "http://d.liveatc.net/katl_twr"
+[[station]]
+name = "KDEN Tower (Denver International)"
+url = "http://d.liveatc.net/kden_twr"
+[[station]]
+name = "KDFW Tower (Dallas/Fort Worth)"
+url = "http://d.liveatc.net/kdfw_twr"
+[[station]]
+name = "KIAH Tower (Houston Intercontinental)"
+url = "http://d.liveatc.net/kiah_twr"
+[[station]]
+name = "KPHX Tower (Phoenix Sky Harbor)"
+url = "http://d.liveatc.net/kphx_twr"
+[[station]]
+name = "KSEA Tower (Seattle-Tacoma)"
+url = "http://d.liveatc.net/ksea_twr"
+[[station]]
+name = "KLAS Tower (Las Vegas Harry Reid)"
+url = "http://d.liveatc.net/klas_twr"
+[[station]]
+name = "EGLL Tower (London Heathrow)"
+url = "http://d.liveatc.net/egll_twr"
+[[station]]
+name = "EHAM Tower (Amsterdam Schiphol)"
+url = "http://d.liveatc.net/eham01_twr_main1"
+[[station]]
+name = "CYYZ Tower (Toronto Pearson)"
+url = "http://d.liveatc.net/cyyz7"
+[[station]]
+name = "CYVR Ground/Tower (Vancouver International)"
+url = "http://d.liveatc.net/cyvr1_gnd_twr"

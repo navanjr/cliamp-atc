@@ -1,0 +1,140 @@
+[[track]]
+path = "http://d.liveatc.net/kjfk_app"
+title = "KJFK Approach"
+artist = "John F. Kennedy"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kjfk_twr"
+title = "KJFK Tower"
+artist = "John F. Kennedy"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/klga_twr"
+title = "KLGA Tower"
+artist = "LaGuardia"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kewr_twr"
+title = "KEWR Tower"
+artist = "Newark Liberty"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kbos_app"
+title = "KBOS Approach"
+artist = "Boston Logan"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kbos_twr"
+title = "KBOS Tower"
+artist = "Boston Logan"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/klax_app"
+title = "KLAX Approach"
+artist = "Los Angeles International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/klax_twr"
+title = "KLAX Tower"
+artist = "Los Angeles International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/ksfo_app"
+title = "KSFO Approach"
+artist = "San Francisco International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/ksfo_twr"
+title = "KSFO Tower"
+artist = "San Francisco International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kord_app"
+title = "KORD Approach"
+artist = "Chicago O'Hare"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kord_twr"
+title = "KORD Tower"
+artist = "Chicago O'Hare"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/katl_app"
+title = "KATL Approach"
+artist = "Hartsfield-Jackson Atlanta"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/katl_twr"
+title = "KATL Tower"
+artist = "Hartsfield-Jackson Atlanta"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kden_twr"
+title = "KDEN Tower"
+artist = "Denver International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kdfw_twr"
+title = "KDFW Tower"
+artist = "Dallas/Fort Worth"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kiah_twr"
+title = "KIAH Tower"
+artist = "Houston Intercontinental"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kphx_twr"
+title = "KPHX Tower"
+artist = "Phoenix Sky Harbor"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/ksea_twr"
+title = "KSEA Tower"
+artist = "Seattle-Tacoma"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/klas_twr"
+title = "KLAS Tower"
+artist = "Las Vegas Harry Reid"
+album = "Live ATC"
+genre = "ATC"
+realtime = true

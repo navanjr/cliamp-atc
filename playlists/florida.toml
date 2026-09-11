@@ -1,0 +1,56 @@
+[[track]]
+path = "http://d.liveatc.net/kmia_app"
+title = "KMIA Approach"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmia_twr"
+title = "KMIA Tower"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmia_gnd"
+title = "KMIA Ground"
+artist = "Miami International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kfll_app"
+title = "KFLL Approach"
+artist = "Fort Lauderdale-Hollywood"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kfll_twr"
+title = "KFLL Tower"
+artist = "Fort Lauderdale-Hollywood"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kpbi_app"
+title = "KPBI Approach"
+artist = "Palm Beach International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kpbi_twr"
+title = "KPBI Tower"
+artist = "Palm Beach International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
+[[track]]
+path = "http://d.liveatc.net/kmco_twr"
+title = "KMCO Tower"
+artist = "Orlando International"
+album = "Live ATC"
+genre = "ATC"
+realtime = true
